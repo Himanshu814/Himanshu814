@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate Data Science enthusiast and B.Tech student specializing in Data Science at GHRCE, Nagpur, where I am a Gold Medalist with a CGPA of 9.46 (2025 expected). With a strong foundation in Python, SQL, and machine learning, I am dedicated to continuous learning and building impactful software solutions. I am skilled in data analysis, problem-solving, and collaborating within dynamic teams to deliver innovative results.
+I am a passionate Data Science enthusiast and B.Tech student specializing in Data Science at GHRCE, Nagpur. With a strong foundation in Python, SQL, and machine learning, I am dedicated to continuous learning and building impactful software solutions. I am skilled in data analysis, problem-solving, and collaborating within dynamic teams to deliver innovative results.
 <!--
 **Himanshu814/Himanshu814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
